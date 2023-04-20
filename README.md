@@ -31,8 +31,7 @@ There will be an option to view a Class Report which will show all the informati
 The goal of the company is to deliver a high-end quality product as early as possible. 
 
  
- ![Admin Portal SS](https://user-images.githubusercontent.com/100374432/233374175-0eca0ea1-8ed5-46bd-857c-36da67c5691f.jpeg)
-
+ 
 
 The flow and features of the application: 
 
@@ -69,4 +68,7 @@ The following requirements should be met:
 ● Links to the GitHub repository to verify the project completion
 
 ![Admin Login SS](https://user-images.githubusercontent.com/100374432/233373945-c594ff4f-b5dd-4a42-bb24-55f0330ce5f7.jpeg)
+
+![image](https://user-images.githubusercontent.com/100374432/233374387-8a103d38-9bfa-4250-b792-c641f30947c0.png)
+
 
