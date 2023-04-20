@@ -65,3 +65,6 @@ The following requirements should be met:
 ● Algorithms and flowcharts of the application 
 ● Core concepts used in the project 
 ● Links to the GitHub repository to verify the project completion
+
+![Admin Login SS](https://user-images.githubusercontent.com/100374432/233373945-c594ff4f-b5dd-4a42-bb24-55f0330ce5f7.jpeg)
+
