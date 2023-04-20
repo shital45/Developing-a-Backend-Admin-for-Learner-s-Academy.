@@ -31,6 +31,8 @@ There will be an option to view a Class Report which will show all the informati
 The goal of the company is to deliver a high-end quality product as early as possible. 
 
  
+ ![Admin Portal SS](https://user-images.githubusercontent.com/100374432/233374175-0eca0ea1-8ed5-46bd-857c-36da67c5691f.jpeg)
+
 
 The flow and features of the application: 
 
